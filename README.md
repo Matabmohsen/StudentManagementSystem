@@ -1,6 +1,6 @@
 # Student Management & Analytics System
 
-This project is a **Student Management System** built in **Oracle SQL**, featuring:
+This project is a Student Management System built in Oracle SQL, featuring:
 
 - Student, Instructor, Courses, Enrollments, and Grades tables
 - Auto-generated IDs using sequences and triggers
@@ -10,8 +10,9 @@ This project is a **Student Management System** built in **Oracle SQL**, featuri
 - Sample data for testing
 
 ## SQL Files
+
 - `create_tables.sql` - Create all tables
 - `insert_data.sql` - Insert sample data
 - `triggers.sql` - All sequences and triggers
-- `views.sql` - StudentTranscript and GPA views
-- `queries.sql` - Useful queries for reporting
+- `views.sql` - Views for transcripts and GPA reports
+- `queries.sql` - Sample queries for testing
